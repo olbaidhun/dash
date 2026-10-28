@@ -1,5 +1,5 @@
 [
-  {"id":"first","name":"#01_Pack_0929","desc":"Alap kártyák + chrome funkciók","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
+  {"id":"first","name":"first_Pack_0929","desc":"Alap kártyák + chrome funkciók","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
   {"id":"xmb","name":"anim v4_1027","desc":"XMB ps3 szerű animáció a háttérbe","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"},
   {"id":"xmb patch1","name":"anim v4 patch1_1028","desc":"Ez a javítás optimalizál az xmb hibáin, szivárgásán","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/anim v4 patch1","size":"5k"}
   {"id":"store patch1","name":"patch_1028","desc":"A Store esztétikán javít, nagy méretű multisearch is visszavált kicsire","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/Store_v02-patch","size":"5k"}
