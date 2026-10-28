@@ -1,5 +1,5 @@
 [
   {"id":"first","name":"0929 First Pack","desc":"Alap kártyák + chrome","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
-  {"id":"xmb","name":"anim v4","desc":"patch v4","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"}
+  {"id":"xmb","name":"anim v4","desc":"patch v4","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"},
   {"id":"xmb","name":"anim v4 patch1","desc":"anim v4 patch1","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"5k"}
 ]
