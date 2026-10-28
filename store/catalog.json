@@ -1,5 +1,5 @@
 [
-  {"id":"first","name":"0929 First Pack","desc":"Alap kártyák + chrome","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
-  {"id":"xmb","name":"anim v4","desc":"patch v4","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"},
-  {"id":"xmb","name":"anim v4 patch1","desc":"anim v4 patch1","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/anim v4 patch1","size":"5k"}
+  {"id":"first","name":"0929 First Pack","desc":"Alap kártyák + chrome funkciók","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
+  {"id":"xmb","name":"anim v4","desc":"XMB ps3 szerű animáció a háttérbe","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"},
+  {"id":"xmb patch1","name":"anim v4 patch1","desc":"Ez a javítás optimalizál az xmb hibáin, szivárgásán","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/anim v4 patch1","size":"5k"}
 ]
