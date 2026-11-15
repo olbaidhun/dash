@@ -1,0 +1,17 @@
+[
+  {"id":"#01/a","name":"first_Pack_0929","desc":"Alap kártyák + chrome funkciók","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/0929_1300","size":"29k"},
+  {"id":"#02/a xmb","name":"xmb anim","desc":"XMB - PS3 hatású háttér: menüben eléred","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_v04_payload","size":"107k"},
+  {"id":"#02/b xmb patch1","name":"xmb anim patch1","desc":"optimalizál az xmb esztétikán","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/anim v4 patch1","size":"5k"},
+  {"id":"#02/c xmb patch2","name":"xmb anim patch2","desc":"xmb hibáin, szivárgásán korrigál","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/xmb_patch2","size":"16k"},
+  {"id":"#03/a bhole_v1","name":"Black Hole v1","desc":"Szingularitás: menüben eléred +kamera","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v1","size":"35k"},
+  {"id":"#03/b Black Hole v2","name":"bhole_v2","desc":"Szingularitás patch, részecskék, kapcsolók","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v2","size":"46k"},
+  {"id":"#03/c Black Hole v3","name":"bhole_v3","desc":"Szingularitás patch3, szimulució javítás","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v3.txt","size":"50k"},
+  {"id":"#03/d Black Hole v4","name":"bhole_v4","desc":"Szingularitás patch4, effektek, élmény ","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v4.txt","size":"51k"},
+  {"id":"#03/e Black Hole v5","name":"bhole_v5","desc":"Szingularitás patch5, további újdonságok ","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v5.txt","size":"56k"},
+  {"id":"#03/f Black Hole v6","name":"bhole_v6","desc":"Szingularitás patch6 aztaa ","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/bhole_payload_v6.txt","size":"57k"}, 
+  {"id":"#04 Search","name":"search_v1","desc":"ctrl+k tokenes keresés, felváltja a klasszikus keresőt","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/search_payload.json","size":"15k"},
+  {"id":"#05 truth menu","name":"truth_desk_v1","desc":"token és reg fejlesztés felváltja a klasszikus menüt","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/truth_payload","size":"27k"},
+  {"id":"#06 truth mobile","name":"truth_mob_v1","desc":"felváltja a klasszikus mobil menüt","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/truth_mobile","size":"52k"},
+  {"id":"#07 truth patch","name":"truth_patch","desc":"kisebb javítások shell menü ismét aktív","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/truth_patch","size":"82k"},
+  {"id":"#08 store patch_1028","name":"store patch1","desc":"Store esztétikán javít, nagy méretű multisearch is visszavált kicsire","url":"https://raw.githubusercontent.com/olbaidhun/dash/main/store/Store_v02-patch","size":"5k"}
+]
